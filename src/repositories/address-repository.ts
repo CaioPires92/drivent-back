@@ -20,4 +20,3 @@ export type UpdateAddressParams = CreateAddressParams;
 export const addressRepository = {
   upsert,
 };
-
